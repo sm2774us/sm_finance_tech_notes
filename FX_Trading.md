@@ -166,10 +166,13 @@ The Dollar ______ and the Pound ______. Therefore, the Dollar closed (up/down) f
 A1. The Dollar <u>weakened</u> and the Pound <u>strengthened</u>, since one Pound will buy more Dollars. The Dollar closed down for the day. You had a <u>loss</u> of </u>£1,037.28 or $1,600</u>.
 
 > -£1,000,000 = +$1,540,900 @ 1.5409        -£1,000,000 @ 1.5409 = +$1,540,900
+>
 >   +£998.963 = -$1,540,900 @ 1.5425        +£1,000,000 @ 1.5425 = -$1,542,500
+>
 > ----------------------------------        -----------------------------------
+>
 >     -£1,037 =      0                             0             =     -$1,600
-
+>
 
 Q2. Dollar-Yen opens at 124.05 and closes at 123.50.
 The Dollar ______ and the Yen ______.  Therefore, the Yen closed (up/ down) for the day, relative to the USD. If you sold USD 1MM at the open 
@@ -178,8 +181,11 @@ and reversed the position at the close, your (profit/loss) would be ______.
 A2. The Dollar <u>weakened</u> and the <u>Yen</u> strengthened, since one Dollar will buy fewer Yen. The Yen closed up for the day. You had a <u>profit</u> of <u>¥550,000 or $4,453</u>.
 
 > -$1,000,000 = +¥124,050,000 @ 124.05       -$1,000,000 @ 124.05 = +¥124,050,000
+>
 > +$1,004,453 = -¥124,050,000 @ 123.50       +$1,000,000 @ 123.50 = -¥123,500,000
+>
 > ----------------------------------        --------------------------------------
+>
 >     +$4,453 =      0                             0             =      +¥550,000
 > 
 
@@ -190,7 +196,10 @@ and bought them back at the close, your (profit/loss) would be ______.
 A3. The Dollar <u>strengthened</u> and the <u>Swissie</u> weakened since one Dollar will buy more Swissie. The Dollar closed up for the day. You had a <u>profit</u> of <u>CHF3,327 or $2,213</u>.
 
 > -CHF10,000,000 = +$6,653,360 @ 1.5030        -CHF10,000,000 @ 1.5030 = +$6,653,360 @ 1.5030
+>
 > +CHF10,003,327 = +$6,653,360 @ 1.5035        +CHF10,000,000 @ 1.5035 = +$6,651,147 @ 1.5035
+>
 > -------------------------------------        ----------------------------------------------
+>
 >      +CHF3,327 =      0                             0                = +$2,213
 >
