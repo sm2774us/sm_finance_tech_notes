@@ -56,3 +56,42 @@ Using the trader's calendar below, indicate the date on which each of these trad
 3. You do a GBP trade for value tomorrow => December 5 
 4. You do a spot GBP trade => December 6
 5. You do a spot CHF trade => December 6
+
+### CREDIT AND SETTLEMENT RISKS
+
+Foreign Exchange contracts represent a Credit Risk between Lehman and the client. The risk is equal to the replacement cost of any deal in the event that the client cannot fulfill its obligations. For spot transactions, the exposure is for only the two days between the trade date and the value date. However, for forward contracts the exposure is greater because the time between the trade date and the value date is greater. For example, if Lehman contracted to buy USD/sell EUR one year forward at 1.0425 and the current forward rate is 1.0845, Lehman has a gain of over 4% of the face value of the contract. If the client cannot fulfill the contract, Lehman must replace the forward at the rate currently available and, therefore, stands to lose the 4% mark-to-market gain. Since the bank reports mark-to-market gains as income, client nonperformance has bottom line implications.
+
+_Settlement Risk_ is another form of credit risk which can potentially be much greater. Each currency deal actually involves two settlements, since each currency settles in its home country. Since the exchange of currencies cannot be simultaneous due to time differences, each party is at risk for the time period between the two settlements. For example, assume you have sold JPY against the USD. The JPY will settle in Japan-your JPY account will be debited and the JPY delivered to the bank of the buyer-hours before your dollar account in New York is credited. Your risk is that you deliver JPY to the Japanese clearing, but the bank which owes you dollars in return for your JPY declares bankruptcy by the opening of business in NY. You have paid out the JPY but will not receive your dollars in exchange.
+
+### EXCHANGE RATE QUOTATION TERMS
+
+* The major currency pairs can be quoted in either European or Ameerican terms.
+* Those that quote in number of US dollars per one unit of another currency is American. An example of this is EUR/USD which is quoted as the number of USD per one Euro.
+* A currency quoted as the number of units of a specific currency per one USD is quoted in American terms. An example of this would be dollar-yen, which is quoted in yen per one USD. When rates are spoken the base currency comes first. It is imperative that you remember these conventions!
+
+| **American Terms**         | **European Terms**         | **Other Major Cross Rates** |
+| -------------------------- | -------------------------- | --------------------------- |
+| EUR/USD - "Euro-Dollar"    | USD/JPY - "Dollar-Yen"     | EUR/NOK - "Euro-Nockie"     |
+| AUD/USD - "Aussid-Dollar"  | USD/CAD - "Dollar-Cad"##   | EUR/SEK - "Euro-Stockie"    |
+| NZD/USD - "Kiwi-Dollar"    | USD/CHF - "Dollar-Swiss"$  | USD/MEX - "Dollar-Mex"      |
+| GBP/USD - "Sterling,Cable" | USD/SEK - "Dollar-Stockie" | USD/ZAR - "Dollar-Rand"     |
+|                            | USD/NOK - "Dollar-Nockie"  | GBP/JPY - "Sterling-Yen"    |
+|                            |                            | EUR/GBP - "Euro-Sterling"   |
+
+The arithmetic way to express these quotations will always have the base currency in the denominator and the rates currency in the numerator. 
+Do not allow this representation to confuse you when actually saying the currency pairs. This is simply how they would look mathematically. Examples are USD /EUR and JPY /USD being the nomenclature for arithmetic expression of Dollars per Euro and JPY per USD, respectively. The following will illuminate this point.
+
+Since two currencies are involved, one has to be quoted in terms of the other. When we say that the exchange rate for the yen against the dollar is 123.50 yen,
+we are valuing the dollar in terms of the yen-123.50 yen per dollar. The arithmetic expression tells you which currency is being quoted in terms of the yen.
+In the case of the USD /EUR, the EUR is being quoted in terms of the USD.
+
+The way the two currencies are referred to verbally will usually tell you which one is the base, since the base currency is usually stated first.
+For example, when the two currencies involved are the US dollar and the yen, the relationship is called dollar-yen-meaning the number of yen per dollar.
+This tells you that the dollar is the base and that the rate will be quoted in terms of yen per dollar.
+
+> **Do not let the terminology confuse you; a "dollar-yen" rate is quoted as Yen per USD.**
+> 
+
+`##Also Known as the 'Loon'.`
+
+`$ Sometimes Known as the 'Fondue Franc'`
