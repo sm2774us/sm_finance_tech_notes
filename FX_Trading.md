@@ -44,3 +44,15 @@ __Assume the deal date is Monday, December 12.__
 `# The Settlement Date May Not Fall on a Day That is a National Holiday in Either Country.`
 
 `++ Exception: Spot for the Canadian Dollar Against the USD is One Business Day Later. Assuming Today is Monday, December 12, Spot Would be December 13.`
+
+#### QUESTIONS
+
+Using the trader's calendar below, indicate the date on which each of these trades would settle. Assume you are at a New York bank dealing in currencies against the US dollar. Today is December 4th.
+
+![FX_Trading_Calendar_Dec_2002](./assets/FX_Trading_Calendar_Dec_2002.png)
+
+1. You do a trade in CAD for cash settlement => December 4
+2. You do a spot CAD trade => December 5
+3. You do a GBP trade for value tomorrow => December 5 
+4. You do a spot GBP trade => December 6
+5. You do a spot CHF trade => December 6
