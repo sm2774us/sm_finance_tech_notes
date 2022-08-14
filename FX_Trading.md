@@ -115,7 +115,7 @@ This tells you that the dollar is the base and that the rate will be quoted in t
 3. AUD 0.5565: <u>AUD</u>: quoted in <u>US</u> terms.
 4. EUR 1.0500: <u>EUR</u>: quoted in <u>US</u> terms. 
 
-## RECIPROCAL QUOTATION TERMS (RATES)
+### RECIPROCAL QUOTATION TERMS (RATES)
 
 * The method of quotation can be changed from US to European terms, or vice versa, simply by calculating the reciprocal of the rate. For example, Canadian dollars are usually quoted in European terms, that is, the number of Canadian dollars per one US dollar.
 
@@ -129,7 +129,7 @@ This tells you that the dollar is the base and that the rate will be quoted in t
    >         0.6381 USD per 1 CAD
    >
 
-## EXCHANGE RATE MOVEMENTS
+### EXCHANGE RATE MOVEMENTS
 
 * The exchange rate is constantly changing, which means the value of one currency in terms of the other is in constant flux. When this relationship changes, the market speaks of one currency as strengthening or weakening vis-a-vis the second currency. For example, if the dollar strengthens, by definition, the other currency must have weakened.
 * Whenever the base currency buys more of the terms currency or whenever there is an increase in the numerator, the base currency has strengthened and the terms currency has weakened. For example, if dollar-yen opened at 124.10 and closed at 124.60, you would say that the dollar strengthened since one dollar buys more yen at the close than it did at the open. In this case, the dollar closed higher or "up."
@@ -153,3 +153,44 @@ This tells you that the dollar is the base and that the rate will be quoted in t
      > CHF 4400 / 1.5040 = $2925.53
      >
 
+
+#### QUESTIONS
+
+* Based on the rates given below, decide which currency strengthened and which one weakened, whether it closed up or down, and your profit/loss based on the position you took at the open.
+
+_Remember: When the rate increases, the base strengthens, and the terms weakens._
+
+Q1. Sterling opens at 1.5409 and closes at 1.5425.
+The Dollar ______ and the Pound ______. Therefore, the Dollar closed (up/down) for the day, relative to the GBP. If you sold 1MM GBP and bought USD at the open and the reversed the trade at the close, your (profit/loss) would be ______ (currency and amount).
+
+A1. The Dollar <u>weakened</u> and the Pound <u>strengthened</u>, since one Pound will buy more Dollars. The Dollar closed down for the day. You had a <u>loss</u> of </u>£1,037.28 or $1,600</u>.
+
+> -£1,000,000 = +$1,540,900 @ 1.5409        -£1,000,000 @ 1.5409 = +$1,540,900
+>   +£998.963 = -$1,540,900 @ 1.5425        +£1,000,000 @ 1.5425 = -$1,542,500
+> ----------------------------------        -----------------------------------
+>     -£1,037 =      0                             0             =     -$1,600
+
+
+Q2. Dollar-Yen opens at 124.05 and closes at 123.50.
+The Dollar ______ and the Yen ______.  Therefore, the Yen closed (up/ down) for the day, relative to the USD. If you sold USD 1MM at the open 
+and reversed the position at the close, your (profit/loss) would be ______.
+
+A2. The Dollar <u>weakened</u> and the <u>Yen</u> strengthened, since one Dollar will buy fewer Yen. The Yen closed up for the day. You had a <u>profit</u> of <u>¥550,000 or $4,453</u>.
+
+> -$1,000,000 = +¥124,050,000 @ 124.05       -$1,000,000 @ 124.05 = +¥124,050,000
+> +$1,004,453 = -¥124,050,000 @ 123.50       +$1,000,000 @ 123.50 = -¥123,500,000
+> ----------------------------------        --------------------------------------
+>     +$4,453 =      0                             0             =      +¥550,000
+> 
+
+Q3. CHF/USD opens at 1.5030 and closes at 1.5035.
+The USD ______ and the Swiss Franc ______. Therefore, the Dollar closed (up/ down) for the day, relative to the CHF. If you sold CHF 10MM at the open 
+and bought them back at the close, your (profit/loss) would be ______. 
+
+A3. The Dollar <u>strengthened</u> and the <u>Swissie</u> weakened since one Dollar will buy more Swissie. The Dollar closed up for the day. You had a <u>profit</u> of <u>CHF3,327 or $2,213</u>.
+
+> -CHF10,000,000 = +$6,653,360 @ 1.5030        -CHF10,000,000 @ 1.5030 = +$6,653,360 @ 1.5030
+> +CHF10,003,327 = +$6,653,360 @ 1.5035        +CHF10,000,000 @ 1.5035 = +$6,651,147 @ 1.5035
+> -------------------------------------        ----------------------------------------------
+>      +CHF3,327 =      0                             0                = +$2,213
+>
