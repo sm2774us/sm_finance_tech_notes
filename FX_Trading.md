@@ -95,3 +95,55 @@ This tells you that the dollar is the base and that the rate will be quoted in t
 `##Also Known as the 'Loon'.`
 
 `$ Sometimes Known as the 'Fondue Franc'`
+
+* The currency in the numerator always states how much of that currency is required for one unit of the base currency.
+
+  - U.S. terms: the dollar is in the numerator; for example, USD /GBP--giving the units of dollar per pound.
+  - European Terms: the non-dollar currency is in the numerator; for example, JPY /USD, giving the units of yen per dollar.
+
+    >            Numerator      Terms Currency
+    >          ------------- = -----------------
+    >           Denominator      Base Currency
+    > 
+
+#### QUESTIONS
+
+* In many cases, you will see only the terms account; it is assumed you know the base. For example, if you see JPY124.25 you know that this means 124.25 Yen per $1.
+ 
+1. GBP 1.5541: base <u>Sterling</u>: quoted in <u>US</u> terms.
+2. CAD 1.5476: base <u>USD</u>: quoted in <u>European</u> terms.
+3. AUD 0.5565: <u>AUD</u>: quoted in <u>US</u> terms.
+4. EUR 1.0500: <u>EUR</u>: quoted in <u>US</u> terms. 
+
+## RECIPROCAL QUOTATION TERMS (RATES)
+
+* The method of quotation can be changed from US to European terms, or vice versa, simply by calculating the reciprocal of the rate. For example, Canadian dollars are usually quoted in European terms, that is, the number of Canadian dollars per one US dollar.
+
+                   CAD/USD = 1.5672
+                   
+* However, at least for Canadian banks, you sometimes see it quoted in US terms. That is, the number of USD per CAD.
+  
+  To take the reciprocal: 
+  
+   >       1 / 1.5672    = 0.6381   =
+   >         0.6381 USD per 1 CAD
+   >
+
+## EXCHANGE RATE MOVEMENTS
+
+* The exchange rate is constantly changing, which means the value of one currency in terms of the other is in constant flux. When this relationship changes, the market speaks of one currency as strengthening or weakening vis-a-vis the second currency. For example, if the dollar strengthens, by definition, the other currency must have weakened.
+* Whenever the base currency buys more of the terms currency or whenever there is an increase in the numerator, the base currency has strengthened and the terms currency has weakened. For example, if dollar-yen opened at 124.10 and closed at 124.60, you would say that the dollar strengthened since one dollar buys more yen at the close than it did at the open. In this case, the dollar closed higher or "up."
+* Based on their outlook on a currency, traders will often take positions in that currency, buying it if they think it will strengthen and selling it if they think it will weaken.
+  * Assume an FX trader bought one million dollar's worth of Swiss Francs at 1.4996 at the open because she thought Francs would strengthen over that day.
+    However, her outlook for the day was wrong, and when she closed out her position by buying back the dollars at 1.5040 she experienced a $2,925.53 (CHF4,400) loss. 
+    
+    CHF loss: -$1,000,000.00  =  +CHF1,499,600 @ 1.4996
+              +$1.000.000.00  =  -CHF1.504.000 @ 1.5040
+              --------------     -----------------------
+                    -0-          -CHF4,400
+
+  * The Swiss loss can then be converted into a dollar loss by dividing the Swiss loss by the ending exchange rate.
+  
+     > CHF 4400 / 1.5040 = $2925.53
+     >
+
