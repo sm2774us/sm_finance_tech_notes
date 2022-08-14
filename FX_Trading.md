@@ -138,9 +138,13 @@ This tells you that the dollar is the base and that the rate will be quoted in t
     However, her outlook for the day was wrong, and when she closed out her position by buying back the dollars at 1.5040 she experienced a $2,925.53 (CHF4,400) loss. 
     
      > CHF loss: -$1,000,000.00  =  +CHF1,499,600 @ 1.4996
+     >
      >           +$1.000.000.00  =  -CHF1.504.000 @ 1.5040
+     >
      >           --------------     -----------------------
+     >
      >                 -0-          -CHF4,400
+     >
      >
 
   * The Swiss loss can then be converted into a dollar loss by dividing the Swiss loss by the ending exchange rate.
