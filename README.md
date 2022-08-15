@@ -40,7 +40,10 @@
     for example. However, by spreading exposure across a large number of companies, traders can miss out on the full extent of the returns if a high-growth stock 
     takes off. Remember, that only you can decide what is the best asset for you, and never trade with money that you cannot afford to lose.
 - [**Derivatives Trading**](./Derivatives_Trading.pdf)
-
+- [**Cryptocurrency Trading**]
+  - [**Crypto Spot vs. Crypto Futures Trading - What’s the difference?**](./CRYPTO/001_crypto_spot_vs_crypto_futures_trading.pdf)
+  - [**What are Perpetual Futures?**](./CRYPTO/002_what-are-perpetual-futures.pdf)
+  - [**How Perpetual Futures Work In The Cryptocurrency Market**](./CRYPTO/003_perpetual-cash-settled-futures-in-cryptocurrency-markets.pdf)  
 
 ## Market Data
 
