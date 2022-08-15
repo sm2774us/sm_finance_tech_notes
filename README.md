@@ -1,6 +1,9 @@
 # Trading Basics
 
+## Different Types of Trading
+
 - [**FX Trading**](./FX_Trading.pdf)
+  - [**An Introduction to FOREX Trading**](./FX/001_An_Introduction_to_Forex_Trading.pdf)
 - [**Futures Trading**](./Futures_Trading.pdf)
 - [**Index Trading**](./Index_Trading.pdf)
   - 1. What does it mean to trade an index ?
@@ -31,3 +34,16 @@
     for example. However, by spreading exposure across a large number of companies, traders can miss out on the full extent of the returns if a high-growth stock 
     takes off. Remember, that only you can decide what is the best asset for you, and never trade with money that you cannot afford to lose.
 - [**Derivatives Trading**](./Derivatives_Trading.pdf)
+
+## Backtesting
+
+- [**Introduction to backtesting trading strategies (Learn how to build and backtest trading strategies using `zipline`)**](./backtesting/001_introduction-to-backtesting-trading-strategies.pdf)
+- [**How to store financial market data for backtesting**](./backtesting/002_how-to-store-financial-market-data-for-backtesting.pdf)
+- [**Backtesting trading strategies: less sorcery and more statistics on your side**](./backtesting/003_backtesting-trading-strategies-less-sorcery-and-more-statistics-on-your-side.pdf)
+- [**Backtesting with Python (Backtesting Moving Averages)**](./backtesting/004_backtesting-with-python_using_moving_averages.pdf)
+- [**The easiest way to evaluate the performance of trading strategies in Python**](./backtesting/005_the-easiest-way-to-evaluate-the-performance-of-trading-strategies-in-python.pdf)
+- [**Simulate your Trading Strategy with Python (Simulate your Trading Strategy with Python)**](./backtesting/006_simulate_your_stock_trading_strategy_with_python)
+- [**A Quick and Easy way to Build and Test Stock Trading Strategies (Backtesting, Data, Metrics, Live Implementation, and Pitfalls)**](./backtesting/007_a-quick-and-easy-way-to-build-and-test-stock-trading-strategies.pdf)
+- [**Backtest Trading Strategies with Pandas — Vectorized Backtesting (A fast and efficient approach for evaluating trading strategies)**](./backtesting/008_backtest-trading-strategies-with-pandas-vectorized-backtesting.pdf)
+- [**Backtest Your Trading Strategy with Only 3 Lines of Python (Introducing fastquant, a simple backtesting framework for data driven investors)**](./backtesting/009_backtest-your-trading-strategy-with-only-3-lines-of-python.pdf)
+- [**Dynamic Cryptocurrency Trading Backtesting Platform — Python (Is your trading strategy profitable? Watch the YouTube Series: https://www.youtube.com/watch?v=PZDFXGIAm2g&t=953s)**](./backtesting/010_dynamic-cryptocurrency-trading-backtesting-platform-python.pdf)
